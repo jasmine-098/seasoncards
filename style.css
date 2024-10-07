@@ -1,0 +1,28 @@
+*{
+
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.card{
+  margin-top: 30px;
+  text-align: center;
+  border: 1.5px solid rgb(192, 192, 192);
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content h4{
+  margin-top: 10px;
+  font-weight: 700;
+}
+.content p{
+  padding: 3px;
+}
+.img2{
+  margin-top: 60px;
+  height: 500px ;
+}
